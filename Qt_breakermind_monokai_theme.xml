@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<style-scheme version="1.0" name="Breakermind">
-  <style name="Text" foreground="#f8f8f8" background="#252525"/>
+<style-scheme version="1.0" name="Breakermind_monokai">
+  <style name="Text" foreground="#efefef" background="#333333"/>
   <style name="Link" foreground="#ff3d00"/>
   <style name="Selection" foreground="#000000" background="#aaaaaa"/>
   <style name="LineNumber" foreground="#888888" background="#232323"/>
@@ -13,7 +13,7 @@
   <style name="Occurrences" background="#363636"/>
   <style name="Occurrences.Unused" foreground="#808000"/>
   <style name="Occurrences.Rename" foreground="#ffaaaa" background="#553636"/>
-  <style name="Number" foreground="#ff55ff"/>
+  <style name="Number" foreground="#ff722e"/>
   <style name="String" foreground="#e6db74"/>
   <style name="Type" foreground="#a6e22e"/>
   <style name="Local"/>
